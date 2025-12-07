@@ -14,7 +14,7 @@ export const BoletaHeaderAtom: React.FC<BoletaHeaderProps> = ({ numero, fecha })
 
         {/* Nombre Empresa */}
         <h1 className="text-3xl md:text-4xl font-black text-gray-900 mb-3 tracking-tight print:text-3xl">
-            GAMER ZETA
+            GAME ZONE
         </h1>
 
         {/* Datos Empresa */}

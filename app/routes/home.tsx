@@ -3,8 +3,8 @@ import { Navigate } from "react-router";
 
 export function meta({}: Route.MetaArgs) {
     return [
-        { title: "Gamer Zeta - Sistema POS" },
-        { name: "description", content: "Sistema de punto de venta" },
+        { title: "Game Zone - Tienda Gamer" },
+        { name: "description", content: "Venta de articulos gamers" },
     ];
 }
 

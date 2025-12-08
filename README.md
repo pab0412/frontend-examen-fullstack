@@ -1,3 +1,13 @@
+# Crear un archivo .env en la raiz del proyecto y poner
+
+```
+# VITE_API_URL=http://localhost:3000/api/v1
+```
+
+
+
+
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.

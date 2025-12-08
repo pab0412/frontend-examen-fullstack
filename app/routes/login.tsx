@@ -110,6 +110,13 @@ export default function Login() {
                 <div className="mt-6 text-center text-sm text-gray-400">
                     <p>¿No tienes cuenta? <a href="/register" className="text-green-400 hover:text-green-300 font-semibold">Regístrate aquí</a></p>
                 </div>
+
+                {/* Footer */}
+                <footer className="bg-gray-800 border-t border-gray-700 mt-12">
+                    <div className="max-w-7xl mx-auto px-4 py-6 text-center text-gray-400 text-sm">
+                        <p>© 2024 GameZone. Todos los derechos reservados.</p>
+                    </div>
+                </footer>
             </div>
         </div>
     );

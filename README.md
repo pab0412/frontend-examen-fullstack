@@ -1,3 +1,4 @@
+## EN CASO DE SER NECESARIO EL PROYECTO PUEDE FUNCIONAR SIN EL.
 # Crear un archivo .env en la raiz del proyecto y poner
 
 ```

@@ -1,5 +1,5 @@
-## EN CASO DE SER NECESARIO EL PROYECTO PUEDE FUNCIONAR SIN EL.
-# Crear un archivo .env en la raiz del proyecto y poner
+# EN CASO DE SER NECESARIO EL PROYECTO PUEDE FUNCIONAR SIN EL.
+## Crear un archivo .env en la raiz del proyecto y poner
 
 ```
 # VITE_API_URL=http://localhost:3000/api/v1
